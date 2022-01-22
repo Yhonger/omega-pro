@@ -1,0 +1,13 @@
+#barra{
+    background-color: rgb(129, 185, 24);
+    font-size: 30px;
+   
+}
+.enlaces{
+    text-align: center;
+    color:rgb(14, 4, 4);
+}
+.texto{
+text-align: right;
+color: black;
+}
